@@ -1,0 +1,164 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+
+# Creado por https://www.gitignore.io/api/java,androidstudio
+# Editar en https://www.gitignore.io/?templates=java,androidstudio
+
+### AndroidStudio ###
+# Cubre los archivos que se ignorarán para el desarrollo de Android con Android Studio.
+
+# Archivos de aplicación construidos
+* .apk
+* .ap_
+
+# Archivos para el ART / Dalvik VM
+* .dex
+
+# Archivos de clase Java
+*.clase
+
+# Archivos generados
+compartimiento/
+gen /
+afuera/
+
+# Archivos Gradle
+.gradle
+.gradle /
+construir/
+
+# Firmando archivos
+.firma/
+
+# Archivo de configuración local (ruta sdk, etc.)
+propiedades locales
+
+Carpeta # Proguard generada por Eclipse
+proguard /
+
+# Archivos de registro
+*.Iniciar sesión
+
+# Android Studio
+/*/construir/
+/*/local.properties
+/*/afuera
+/*/*/construir
+/*/*/producción
+captura /
+.navegación/
+* .ipr
+* ~
+* .swp
+
+# Parche de Android
+gen-external-apklibs
+
+# Carpeta de compilación nativa externa generada en Android Studio 2.2 y versiones posteriores
+.ExternalNativeBuild
+
+# NDK
+obj /
+
+# IntelliJ IDEA
+* .iml
+* .iws
+/afuera/
+
+# Configuraciones específicas del usuario
+.idea / caches /
+.idea / bibliotecas /
+.idea / shelf /
+.idea / workspace.xml
+.idea / tasks.xml
+.idea / .name
+.idea / compiler.xml
+.idea / copyright / profiles_settings.xml
+.idea / encodings.xml
+.idea / misc.xml
+.idea / modules.xml
+.idea / scopes / scope_settings.xml
+.idea / diccionarios
+.idea / vcs.xml
+.idea / jsLibraryMappings.xml
+.idea / datasources.xml
+.idea / dataSources.ids
+.idea / sqlDataSources.xml
+.idea / dynamic.xml
+.idea / uiDesigner.xml
+.idea / assetWizardSettings.xml
+
+# Archivos específicos del sistema operativo
+.DS_Store
+.DS_Store?
+._ *
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos de proyecto de Eclipse heredados
+.classpath
+.proyecto
+.cproyecto
+.settings /
+
+# Herramientas móviles para Java (J2ME)
+.mtj.tmp /
+
+# Archivos de paquete #
+*.guerra
+*.oreja
+
+# registros de bloqueos de máquinas virtuales (Referencia: http://www.java.com/en/download/help/error_hotspot.xml)
+hs_err_pid *
+
+## Archivos específicos del plugin:
+
+# mpeltonen / sbt-idea plugin
+.idea_modules /
+
+# Plugin JIRA
+atlassian-ide-plugin.xml
+
+# Mongo Explorer plugin
+.idea / mongoSettings.xml
+
+# Crashlytics plugin (para Android Studio e IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+### AndroidStudio Patch ###
+
+! /gradle/wrapper/gradle-wrapper.jar
+
+### Java ###
+# Archivo de clase compilado
+
+# Archivo de registro
+
+# Archivos BlueJ
+* .ctxt
+
+# Herramientas móviles para Java (J2ME)
+
+# Archivos de paquete #
+*.tarro
+* .nar
+*.cremallera
+* .tar.gz
+* .rar
+
+# registros de errores de máquinas virtuales, consulte http://www.java.com/en/download/help/error_hotspot.xml
+
+# Fin de https://www.gitignore.io/api/java,androidstudio
